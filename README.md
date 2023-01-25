@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikasspawar&show_icons=true&locale=en" alt="vikasspawar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikasspawar&" alt="vikasspawar" /></p>
+<p><img align="center" margin="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=vikasspawar&" alt="vikasspawar" /></p>
