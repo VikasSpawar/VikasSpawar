@@ -27,6 +27,6 @@
 ---
 
 ### :fire: My Stats :
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikasspawar&show_icons=true&locale=en" alt="vikasspawar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikasSpawar&show_icons=true&locale=en" alt="vikasspawar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikasspawar&" alt="vikasspawar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikasSpawar" alt="vikasspawar" /></p>
