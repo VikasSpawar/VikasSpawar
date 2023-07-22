@@ -12,7 +12,7 @@
 - 📫 How to reach me :  **pawarvikas534@gmail.com**
 - 📫 Linkedin :  **https://www.linkedin.com/in/vikas-pawar03/**
 - 📫 Portfolio :  **https://vikasspawar.github.io/**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Fiu2438wDy5NphBfqgbqH77G9mio1ARW/view](https://drive.google.com/file/d/1Fiu2438wDy5NphBfqgbqH77G9mio1ARW/view)
+- 📄 Know about my experiences [Resume ](https://drive.google.com/file/d/1Fiu2438wDy5NphBfqgbqH77G9mio1ARW/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
