@@ -1,4 +1,4 @@
-![logo](https://anayacybertech.com/wp-content/uploads/2018/07/cstmswft-1170x341.jpg)
+![logo](https://media.licdn.com/dms/image/v2/D5616AQGR1GiZpSVL0g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738143900243?e=1744848000&v=beta&t=JPSbg31jo43ERkF4ZIGcS4VhceF1902HjXZOOZxRg_I)
 
 <h1 align="center">Hi 👋, I'm Vikas</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
