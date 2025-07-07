@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/v2/D5616AQGR1GiZpSVL0g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738143900243?e=1744848000&v=beta&t=JPSbg31jo43ERkF4ZIGcS4VhceF1902HjXZOOZxRg_I)
+![logo](https://media.licdn.com/dms/image/v2/D5616AQGR1GiZpSVL0g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738143900243?e=1757548800&v=beta&t=HK4JS-Zu1_czzEUkujDVYTX87I3hsQSIJXnVTSAev0A)
 
 <h1 align="center">Hi 👋, I'm Vikas</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
