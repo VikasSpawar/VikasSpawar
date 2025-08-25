@@ -1,4 +1,4 @@
-![logo](https://sdmntprwestus2.oaiusercontent.com/files/00000000-ec78-61f8-99a8-d8e9b2e278f2/raw?se=2025-07-07T10%3A28%3A59Z&sp=r&sv=2024-08-04&sr=b&scid=8d7063d0-f24c-590a-93e0-f2577fa4be44&skoid=30ec2761-8f41-44db-b282-7a0f8809659b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-06T12%3A11%3A53Z&ske=2025-07-07T12%3A11%3A53Z&sks=b&skv=2024-08-04&sig=wVob0AC0oSW9qaYGTS4lH1ZuAm%2BvgAPpj2RPYcQrGcI%3D)
+![logo]https://drive.google.com/file/d/1pVGmZQ07RwTVRZZ-O9bdta08WB4aiF-P/view?usp=sharing)
 
 <h1 align="center">Hi 👋, I'm Vikas</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
