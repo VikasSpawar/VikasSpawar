@@ -1,4 +1,4 @@
-![logo](https://drive.google.com/file/d/1pVGmZQ07RwTVRZZ-O9bdta08WB4aiF-P/view?usp=sharing)
+![logo](https://raw.githubusercontent.com/VikasSpawar/web-dev-pawar/refs/heads/main/public/github-banner.webp)
 
 <h1 align="center">Hi 👋, I'm Vikas</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
