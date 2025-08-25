@@ -7,12 +7,12 @@
 
 - 🌱 I’m currently learning **Aspiring MERN Developer**
 
-- 💬 Ask me about **REACT, NODEJS, MONGODB, JAVASCRIPT, HTML, CSS**
+- 💬 Ask me about **REACT, NODEJS, MONGODB, JAVASCRIPT, HTML, CSS**  
 
 - 📫 **Portfolio :  https://web-dev-vikas.vercel.app/**
 - 📫 **How to reach me :  pawarvikas534@gmail.com**
 - 📫 **Linkedin :  [Vikas-pawar03](https://www.linkedin.com/in/vikas-pawar03/)**
-- 📄 **Know about my experiences [Resume ](https://drive.google.com/file/d/1Fiu2438wDy5NphBfqgbqH77G9mio1ARW/view)
+- 📄 **Know about my experiences [Resume ](https://drive.google.com/file/d/1Fiu2438wDy5NphBfqgbqH77G9mio1ARW/view)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
