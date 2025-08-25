@@ -5,13 +5,13 @@
 <img padding='4px' align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
 <p align="left"> <img padding='4px' src="https://komarev.com/ghpvc/?username=vikasspawar&label=Profile%20views&color=0e75b6&style=flat" alt="vikasspawar" /> </p>
 
-- 🌱 I’m currently learning **Aspiring MERN Developer****
+- 🌱 I’m currently learning **Aspiring MERN Developer**
 
 - 💬 Ask me about **REACT, NODEJS, MONGODB, JAVASCRIPT, HTML, CSS**
 
+- 📫 Portfolio :  **https://web-dev-vikas.vercel.app/**
 - 📫 How to reach me :  **pawarvikas534@gmail.com**
 - 📫 Linkedin :  **https://www.linkedin.com/in/vikas-pawar03/**
-- 📫 Portfolio :  **https://web-dev-vikas.vercel.app/**
 - 📄 Know about my experiences [Resume ](https://drive.google.com/file/d/1Fiu2438wDy5NphBfqgbqH77G9mio1ARW/view)
 
 <h3 align="left">Connect with me:</h3>
