@@ -1,7 +1,7 @@
 <a href="https://web-dev-vikas.vercel.app"  target="_blank" alt="Logo">![logo](https://raw.githubusercontent.com/VikasSpawar/web-dev-pawar/refs/heads/main/public/github-banner.webp)</a>
 <h1 align="center">Hi 👋, I'm Vikas</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img padding='4px' margin="4px" align="right" alt="Coding" width="600" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
+<img padding='4px' margin="4px" align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
 <p align="left"> <img padding='4px' src="https://komarev.com/ghpvc/?username=vikasspawar&label=Profile%20views&color=0e75b6&style=flat" alt="vikasspawar" /> </p>
 
 - 🌱 I’m currently learning **👩‍💻 Aspiring MERN Developer**
@@ -14,7 +14,8 @@
 - 📄 **Know about my experiences [Resume ](https://drive.google.com/file/d/1Fiu2438wDy5NphBfqgbqH77G9mio1ARW/view)**
 
 <h3 align="left"> 📱 Connect with me:</h3>
-<p align="left">
+<p align="center">
+<a href="https://instagram.com/its_vikas_03" target="_blank"><img padding='4px' align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikas_pawar__" height="30" width="60" /></a>
 <a href="https://twitter.com/vikas_pawar__" target="_blank"><img padding='4px' align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikas_pawar__" height="30" width="60" /></a>
 <a href="https://linkedin.com/in/vikas-pawar03" target="_blank"><img padding='4px' align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas-pawar03" height="30" width="60" /></a>
 <a href="https://codesandbox.com/coder@v1" target="_blank"><img padding='4px' align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="coder@v1" height="30" width="60" /></a>
