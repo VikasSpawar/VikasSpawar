@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/VikasSpawar/web-dev-pawar/refs/heads/main/public/github-banner.webp){:target="_blank"}
+![logo](https://raw.githubusercontent.com/VikasSpawar/web-dev-pawar/refs/heads/main/public/github-banner.webp){:target="_blank" rel="noopener"}
 <a href="https://web-dev-vikas.vercel.app"  target="_blank" alt="Logo">![logo](https://raw.githubusercontent.com/VikasSpawar/web-dev-pawar/refs/heads/main/public/github-banner.webp){:target="_blank"}</a>
 <h1 align="center">Hi 👋, I'm Vikas</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
