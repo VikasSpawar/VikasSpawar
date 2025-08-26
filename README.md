@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **REACT, NODEJS, MONGODB, JAVASCRIPT, HTML, CSS**  
 
-- 📫 **Portfolio :  https://web-dev-vikas.vercel.app/**
+- 📫 **Portfolio :  https://web-dev-vikas.vercel.app**
 - 📫 **How to reach me :  pawarvikas534@gmail.com**
 - 📫 **Linkedin :  [Vikas-pawar03](https://www.linkedin.com/in/vikas-pawar03/)**
 - 📄 **Know about my experiences [Resume ](https://drive.google.com/file/d/1Fiu2438wDy5NphBfqgbqH77G9mio1ARW/view)**
